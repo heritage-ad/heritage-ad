@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Computer Science focusing on Machine Learning (AI track).
 - 💞️ I’m looking to collaborate on AI Projects.
-- 📫 How to reach me: email @heritage.a.ad@gmail.com.
+- 📫 How to reach me: email @hadigun@ivytech.edu.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I can speak 4 languages.
 
